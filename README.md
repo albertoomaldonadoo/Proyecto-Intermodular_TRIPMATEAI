@@ -3,7 +3,7 @@
 > TripMateAI: Plataforma inteligente de viajes con IA, donde puedes hacer reservas de vuelos, alojamientos, actividades y contiene un análisis de mercado.
 
 <p align="center">
-  <img src="./capturasDePantalla/logo.png" width="100%">
+  <img src="./capturasDePantalla/logoo.png" width="100%">
 </p>
 
 ---
