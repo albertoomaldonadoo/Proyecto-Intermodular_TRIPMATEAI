@@ -6,7 +6,13 @@
   <img src="./capturasDePantalla/logoo.png" width="100%">
 </p>
 
----
+## Enlace a la presentación
+
+Enlace a la presentación completa de aplicación: [Presentación TRIPMATEAI]()
+
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Índice
 
@@ -19,12 +25,15 @@
 4. [Repositorios de Código](#repositorios-de-código)
 5. [Artefacto de la app en producción](#artefacto-de-la-app-en-producción)
 6. [Documentación Unificada](#documentación-unificada)
+   - [Diagramas y arquitectura técnica](#diagramas-y-arquitectura-técnica)
 7. [Gestion del Proyecto Jira](#gestion-del-proyecto-jira)
 8. [Documentacion de Codigo Compodoc](#documentacion-de-codigo-compodoc)
 9. [App Android (APK)](#app-android-apk)
 10. [Videos de la aplicación en funcionamiento en directo](#videos-de-la-aplicación-en-funcionamiento-en-directo)
 
----
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Personas del Proyecto
 
@@ -33,7 +42,9 @@
 | Alberto Maldonado Triana | Desarrollador / Diseñador |
 | Javier Ballesteros Martinez | Desarrollador / Diseñador |
 
----
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Descripción del Proyecto
 
@@ -91,6 +102,10 @@ El proyecto contiene un frontend moderno usando **Angular** como tecnología pri
 
 > Las capturas de pantalla están en la carpeta [`/capturasDePantalla`](./capturasDePantalla/) de este mismo repositorio.
 
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
+
 ### Stack tecnológico
 
 | Capa | Tecnología |
@@ -109,39 +124,62 @@ El proyecto contiene un frontend moderno usando **Angular** como tecnología pri
 | Despliegue | Vercel |
 | Organización de el proyecto | Jira |
 
----
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Aportacion por Modulos
 
 ### Acceso a Datos
+- **Profesorado que lo cursa** — García Gómez, Juan Antonio
+
 Gestión de datos con Firebase Firestore y a la autenticación de el usuario, además de el manejo de datos como puede ser el almacenamiento de reservas, vuelos, alojamientos y usuarios.
-Profesorado que lo cursa: García Gómez, Juan Antonio
+
 
 ### Desarrollo de Interfaces
+- **Profesorado que lo cursa** — Campos Fernández, Carmen
+
 Integración en el módulo de Análisis de Mercado un análisis de Power BI totalmente funcional con los datos de la aplicación web.
-Profesorado que lo cursa: Campos Fernández, Carmen
+
 
 ### Optativa — Diseño e Implementación de Infraestructuras de Servicios y APIs
+- **Profesorado que lo cursa** — García Gómez, Juan Antonio
+
 Diseño e implementación de una API REST con Node y Express que expone los servicios del backend (búsqueda de vuelos y alojamientos, gestión de reservas). Usando también Firebase Authentication y Firestore para el guardado de los datos, y despliegue en infraestructura cloud con Vercel. Realización de el proceso de pago haciendo uso de la tecnología de Stripe para poder procesar todos los pagos. En el servidor Node realización de las mejoras de seguridad siguiendo los TOP 10 DE OWASP para mejorar la seguridad en el servidor.
-Profesorado que lo cursa: García Gómez, Juan Antonio
+
 
 ### Programación de Servicios y Procesos
+- **Profesorado que lo cursa** — Hormigo Ramírez, David
+
 Configuración de el uso de la base de datos de Firebase en toda la aplicación móvil.
-Profesorado que lo cursa: Hormigo Ramírez, David
+
 
 ### Programación Multimedia y Dispositivos Móviles
+- **Profesorado que lo cursa** — Hormigo Ramírez, David
+
 Desarrollo de la aplicación Android de TripMateAI en los dispositivos móviles, siguiendo con los estanderes basico de la creación de apps en android.
-Profesorado que lo cursa: Hormigo Ramírez, David
+
 
 ### Proyecto Intermodular de Desarrollo de Aplicaciones Multiplataforma
-Gestión del proyecto usando Jira y cada una de sus características como pueden ser: epics, sprints, tablero kanban y seguimiento de tareas. Además de la creación de toda la documentación que ha sido generada ya sea en en confluence o en compodoc. Incluir el sistema de traducción de I18N para poder traducir la app.
-Profesorado que lo cursa: García Gómez, Juan Antonio
+- **Profesorado que lo cursa** — García Gómez, Juan Antonio
+
+Gestión del proyecto usando Jira y cada una de sus características como pueden ser: epics, sprints, tablero kanban y seguimiento de tareas. Además de la creación de toda la documentación que ha sido generada ya sea en en confluence o en compodoc. 
+
 
 ### Sistemas de Gestión Empresarial
-Integración del módulo de Análisis de Mercado haciendo uso de Python y Pandas para el procesamiento y análisis de datos en el módulo de Análisis de Mercado, con exportación a CSV y XLSX con métricas de negocio (reservas, ingresos, ticket medio, tasa de cancelación). 
-Profesorado que lo cursa: Ronda Carracao, Miguel Ángel
+- **Profesorado que lo cursa** — Ronda Carracao, Miguel Ángel
 
----
+Integración del módulo de Análisis de Mercado haciendo uso de Python y Pandas para el procesamiento y análisis de datos en el módulo de Análisis de Mercado, con exportación a CSV y XLSX con métricas de negocio (reservas, ingresos, ticket medio, tasa de cancelación). 
+
+
+### Inglés Profesional GS
+- **Profesorado que lo cursa** — Sánchez García, José Emilio
+
+Relizar el funcionamiento de el sistema de traducción de I18N para poder traducir la app, en varios idiomas concretamente en inglés.
+
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Repositorios de Código
 
@@ -152,7 +190,9 @@ Profesorado que lo cursa: Ronda Carracao, Miguel Ángel
 | App Móvil | App de Android | [tripmateai-movil](https://github.com/albertoomaldonadoo/TRIPMATEAI-ANDROID) |
 | Entrega para la presentación | README, APK, PDFs | [Proyecto-Intermodular_TRIPMATEAI](https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI.git) |
 
----
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Artefacto de la app en producción
 
@@ -171,7 +211,9 @@ Email:    demo@tripmateai.com
 Password: Demo1234!
 ```
 
----
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Documentación Unificada
 
@@ -181,10 +223,62 @@ Password: Demo1234!
 | Documentación de Confluence en PDF | [Ver PDF](./documentos/TripMateAI_Documentacion_Confluence.pdf) |
 | Documentación de la API en Swagger | [Ver en Swagger](https://node-server-fb.vercel.app/api-docs/) |
 
+> Los PDF se encuentran en la carpeta [`/documentos`](./documentos/) de este repositorio.
 
-> Los PDF se encuentran en la carpeta [`/documentos`](./documentos/) de este repositorio.  
 
----
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
+
+## Diagramas y arquitectura técnica
+
+Muestra de los difentes diagramas para la realización del proyecto. En cada fila, a la izquierda, el título y una breve explicación; a la derecha, la imagen del diagrama.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>Diagrama de casos de uso</strong><br/><br/>
+Diagrama que define quién interactúa con el sistema y qué puede hacer las acciones. Incluye al <em>usuario</em> que puede hacer: (registro, reservas, actividades, chat IA, análisis) y la relación con servicios como Firebase, Stripe y la API de vuelos/alojamientos.
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="./capturasDePantalla/casosDeUso.png" alt="Diagrama de casos de uso" width="380"/>
+</td>
+</tr>
+<tr><td colspan="2"><hr style="border:0;border-top:1px solid #D0D7DE;margin:16px 0"/></td></tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Diagrama de flujo</strong><br/><br/>
+Muestra los pasos que sigue la aplicación en los procesos como: el acceso al sistema, búsqueda y reserva de vuelo o alojamiento, pago de las reservas, creación de actividades y consulta del panel de análisis de mercado.
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="./capturasDePantalla/diagramaDeFlujo.png" alt="Diagrama de flujo" width="380"/>
+</td>
+</tr>
+<tr><td colspan="2"><hr style="border:0;border-top:1px solid #D0D7DE;margin:16px 0"/></td></tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Servicio de autenticación</strong><br/><br/>
+Uso del módulo de identidad con <strong>Firebase Authentication</strong>: formularios de login/registro en Angular, validación de tokens, persistencia de sesión y sincronización del perfil de usuario con Firestore.
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="./capturasDePantalla/servicioAutenticacion.png" alt="Servicio de autenticación" width="380"/>
+</td>
+</tr>
+<tr><td colspan="2"><hr style="border:0;border-top:1px solid #D0D7DE;margin:16px 0"/></td></tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Servicio de comunicación</strong><br/><br/>
+Muestra cómo se conectan las diferentes capas de la aplicación: el cliente (web y móvil) envía peticiones REST al backend <strong>Node/Express</strong>, que consulta Firebase, APIs externas y devuelve los datos a los componentes de la interfaz.
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="./capturasDePantalla/servicioComunicacion.png" alt="Servicio de comunicación" width="380"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Gestion del Proyecto Jira
 
@@ -200,7 +294,9 @@ El PDF incluye:
 - Burndown chart del sprint
 - Estado final del backlog
 
----
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Documentacion de Codigo Compodoc
 
@@ -211,7 +307,9 @@ La documentación del código Angular ha sido generada automáticamente con **Co
 | Compodoc desplegado | [https://tripmateai-web-fb-documentacion.vercel.app/](https://tripmateai-web-fb-documentacion.vercel.app/) |
 | Compodoc en el repositorio y carpeta exacta | [https://github.com/albertoomaldonadoo/TRIPMATEAI-WEB-FB/tree/main/documentation](https://github.com/albertoomaldonadoo/TRIPMATEAI-WEB-FB/tree/main/documentation) |
 
----
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## App Android (APK)
 
@@ -222,6 +320,10 @@ El APK de la aplicación Android de TripMateAI está disponible para descarga di
 **[Descargar TripMateAI.apk](https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI/releases)**
 
 O desde la sección de [Releases](https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI/releases) de este repositorio.
+
+<p align="center">
+  <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
+</p>
 
 ## Videos de la aplicación en funcionamiento en directo
 

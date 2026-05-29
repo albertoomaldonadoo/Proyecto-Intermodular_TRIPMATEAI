@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 88" role="img" aria-label="Separador TripMateAI">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#f4f9ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B3D91" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#0B3D91"/>
+      <stop offset="50%" stop-color="#1E88E5"/>
+      <stop offset="85%" stop-color="#0B3D91"/>
+      <stop offset="100%" stop-color="#0B3D91" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E3F2FD"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#E3F2FD"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="swoosh" d="M 80 44 Q 300 12, 600 44 T 1120 44" fill="none"/>
+  </defs>
+
+  <rect width="1200" height="88" fill="url(#bg)"/>
+
+  <!-- Banda central azul animada -->
+  <rect x="0" y="26" width="1200" height="36" fill="url(#bar)" opacity="0.92">
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Brillo que recorre la banda -->
+  <rect x="-200" y="26" width="200" height="36" fill="url(#shine)" opacity="0.5">
+    <animate attributeName="x" values="-200;1400" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Líneas de vuelo decorativas -->
+  <use href="#swoosh" stroke="#BBDEFB" stroke-width="2" opacity="0.5"/>
+  <use href="#swoosh" stroke="#42A5F5" stroke-width="2.5" stroke-linecap="round"
+       stroke-dasharray="14 12" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" values="0;-52" dur="2.2s" repeatCount="indefinite"/>
+  </use>
+
+  <!-- Icono avión minimalista (azul sobre blanco) -->
+  <g transform="translate(88,44)" opacity="0.9">
+    <path d="M0 0 L-8 4 L-6 0 L-10 -2 L28 -6 L48 -10 L52 -6 L52 -2 L30 0 L26 4 L22 0 L-6 0 Z"
+          fill="#ffffff" opacity="0.95">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 6 -2; 0 0" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M8 -2 L32 -10 L36 -4 L8 -2 Z" fill="#90CAF9" opacity="0.8"/>
+  </g>
+  <g transform="translate(1112,44) scale(-1,1)" opacity="0.9">
+    <path d="M0 0 L-8 4 L-6 0 L-10 -2 L28 -6 L48 -10 L52 -6 L52 -2 L30 0 L26 4 L22 0 L-6 0 Z"
+          fill="#ffffff" opacity="0.95">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 6 -2; 0 0" dur="2.5s" begin="0.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Nombre TRIPMATEAI -->
+  <text x="600" y="52" text-anchor="middle"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif"
+        font-size="28" font-weight="800" letter-spacing="6"
+        fill="url(#textGrad)" filter="url(#glow)">
+    <tspan fill="#ffffff">TRIPMATE</tspan><tspan fill="#BBDEFB" font-weight="800">AI</tspan>
+  </text>
+
+  <!-- Subrayado animado bajo el texto -->
+  <line x1="380" y1="60" x2="820" y2="60" stroke="#ffffff" stroke-width="2" stroke-linecap="round"
+        stroke-dasharray="8 6" opacity="0.85">
+    <animate attributeName="stroke-dashoffset" values="0;-28" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Puntos decorativos -->
+  <circle cx="340" cy="44" r="3" fill="#ffffff" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="44" r="3" fill="#ffffff" opacity="0.6">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bordes finos -->
+  <line x1="40" y1="86" x2="1160" y2="86" stroke="#1E88E5" stroke-width="1.5" opacity="0.35"/>
+  <line x1="40" y1="2" x2="1160" y2="2" stroke="#1E88E5" stroke-width="1.5" opacity="0.2"/>
+</svg>
