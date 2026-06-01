@@ -6,6 +6,20 @@
   <img src="./capturasDePantalla/logoo.png" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://tripmateai-web-fb.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-VISITAR%20APP%20WEB-FFFFFF?style=for-the-badge&labelColor=1565C0&logoColor=FFFFFF" alt="Visitar app web"/>
+  </a>
+  &nbsp;
+  <a href="#enlace-a-la-presentación">
+    <img src="https://img.shields.io/badge/-VER%20PRESENTACION-FFFFFF?style=for-the-badge&labelColor=1565C0&logoColor=FFFFFF" alt="Ver presentación"/>
+  </a>
+  &nbsp;
+  <a href="#artefacto-de-la-app-en-producción">
+    <img src="https://img.shields.io/badge/-PLATAFORMA%20USADA-FFFFFF?style=for-the-badge&labelColor=1565C0&logoColor=FFFFFF" alt="Técnologias usada"/>
+  </a>
+</p>
+
 ## Enlace a la presentación
 
 Enlace a la presentación completa de aplicación: [Presentación TRIPMATEAI]()
@@ -185,10 +199,10 @@ Relizar el funcionamiento de el sistema de traducción de I18N para poder traduc
 
 | Repositorio | Descripción | Enlace |
 |---|---|---|
-| Frontend | Aplicación Angular | [tripmateai-web-frontend](https://github.com/albertoomaldonadoo/TRIPMATEAI-WEB-FB) |
-| Backend | API Node.js + Express | [tripmateai-backend](https://github.com/albertoomaldonadoo/NODE-SERVER-FB) |
-| App Móvil | App de Android | [tripmateai-movil](https://github.com/albertoomaldonadoo/TRIPMATEAI-ANDROID) |
-| Entrega para la presentación | README, APK, PDFs | [Proyecto-Intermodular_TRIPMATEAI](https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI.git) |
+| Frontend | Aplicación Angular | <a href="https://github.com/albertoomaldonadoo/TRIPMATEAI-WEB-FB" target="_blank" rel="noopener noreferrer">tripmateai-web-frontend</a> |
+| Backend | API Node.js + Express | <a href="https://github.com/albertoomaldonadoo/NODE-SERVER-FB" target="_blank" rel="noopener noreferrer">tripmateai-backend</a> |
+| App Móvil | App de Android | <a href="https://github.com/albertoomaldonadoo/TRIPMATEAI-ANDROID" target="_blank" rel="noopener noreferrer">tripmateai-movil</a> |
+| Entrega para la presentación | README, APK, PDFs | <a href="https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI.git" target="_blank" rel="noopener noreferrer">Proyecto-Intermodular_TRIPMATEAI</a> |
 
 <p align="center">
   <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
@@ -198,11 +212,11 @@ Relizar el funcionamiento de el sistema de traducción de I18N para poder traduc
 
 | Artefacto | URL / Acceso |
 |---|---|
-| Aplicación web | [https://tripmateai-web-fb.vercel.app/dashboard](https://tripmateai-web-fb.vercel.app) |
-| Docuemntación web compodoc | [https://tripmateai-web-fb-documentacion.vercel.app](https://tripmateai-web-fb-documentacion.vercel.app) |
-| Docuemntación web Swagger | [https://node-server-fb.vercel.app/api-docs/](https://node-server-fb.vercel.app/api-docs/) |
-| Docuemntación Confluence | [https://g-team-mpfqw8oy.atlassian.net/wiki/x/AYAy](https://g-team-mpfqw8oy.atlassian.net/wiki/x/AYAy) |
-| App Android (APK) | [Descargar APK](https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI/releases) |
+| Aplicación web | <a href="https://tripmateai-web-fb.vercel.app" target="_blank" rel="noopener noreferrer">https://tripmateai-web-fb.vercel.app/dashboard</a> |
+| Docuemntación web compodoc | <a href="https://tripmateai-web-fb-documentacion.vercel.app" target="_blank" rel="noopener noreferrer">https://tripmateai-web-fb-documentacion.vercel.app</a> |
+| Docuemntación web Swagger | <a href="https://node-server-fb.vercel.app/api-docs/" target="_blank" rel="noopener noreferrer">https://node-server-fb.vercel.app/api-docs/</a> |
+| Docuemntación Confluence | <a href="https://g-team-mpfqw8oy.atlassian.net/wiki/x/AYAy" target="_blank" rel="noopener noreferrer">https://g-team-mpfqw8oy.atlassian.net/wiki/x/AYAy</a> |
+| App Android (APK) | <a href="https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI/releases" target="_blank" rel="noopener noreferrer">Descargar APK</a> |
 
 **Credenciales de prueba para la app:**
 
@@ -219,11 +233,11 @@ Password: Demo1234!
 
 | Documento | Enlace |
 |---|---|
-| Confluence (documentación completa) | [Ver en Confluence](https://g-team-mpfqw8oy.atlassian.net/wiki/x/AYAy) |
-| Documentación de Confluence en PDF | [Ver PDF](./documentos/TripMateAI_Documentacion_Confluence.pdf) |
-| Documentación de la API en Swagger | [Ver en Swagger](https://node-server-fb.vercel.app/api-docs/) |
+| Confluence (documentación completa) | <a href="https://g-team-mpfqw8oy.atlassian.net/wiki/x/AYAy" target="_blank" rel="noopener noreferrer">Ver en Confluence</a> |
+| Documentación de Confluence en PDF | <a href="./documentos/TripMateAI_Documentacion_Confluence.pdf" target="_blank" rel="noopener noreferrer">Ver PDF</a> |
+| Documentación de la API en Swagger | <a href="https://node-server-fb.vercel.app/api-docs/" target="_blank" rel="noopener noreferrer">Ver en Swagger</a> |
 
-> Los PDF se encuentran en la carpeta [`/documentos`](./documentos/) de este repositorio.
+> Los PDF se encuentran en la carpeta <a href="./documentos/" target="_blank" rel="noopener noreferrer"><code>/documentos</code></a> de este repositorio.
 
 
 <p align="center">
@@ -286,7 +300,7 @@ La gestión del proyecto se realizó con **Jira**, organizando el trabajo en epi
 
 | Documento | Enlace |
 |---|---|
-| Resumen Jira (PDF) | [Ver PDF](./documentos/TripMateAI_Jira_Resumen.pdf) |
+| Resumen Jira (PDF) | <a href="./documentos/RESUMEN-JIRA-TRIPMATEAI.pdf" target="_blank" rel="noopener noreferrer">Ver PDF</a> |
 
 El PDF incluye:
 - Tablero de tareas y epics
@@ -304,8 +318,8 @@ La documentación del código Angular ha sido generada automáticamente con **Co
 
 | Recurso | Enlace |
 |---|---|
-| Compodoc desplegado | [https://tripmateai-web-fb-documentacion.vercel.app/](https://tripmateai-web-fb-documentacion.vercel.app/) |
-| Compodoc en el repositorio y carpeta exacta | [https://github.com/albertoomaldonadoo/TRIPMATEAI-WEB-FB/tree/main/documentation](https://github.com/albertoomaldonadoo/TRIPMATEAI-WEB-FB/tree/main/documentation) |
+| Compodoc desplegado | <a href="https://tripmateai-web-fb-documentacion.vercel.app/" target="_blank" rel="noopener noreferrer">https://tripmateai-web-fb-documentacion.vercel.app/</a> |
+| Compodoc en el repositorio y carpeta exacta | <a href="https://github.com/albertoomaldonadoo/TRIPMATEAI-WEB-FB/tree/main/documentation" target="_blank" rel="noopener noreferrer">https://github.com/albertoomaldonadoo/TRIPMATEAI-WEB-FB/tree/main/documentation</a> |
 
 <p align="center">
   <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
@@ -317,9 +331,9 @@ El APK de la aplicación Android de TripMateAI está disponible para descarga di
 
 ### Descargar el APK
 
-**[Descargar TripMateAI.apk](https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI/releases)**
+**<a href="https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI/releases" target="_blank" rel="noopener noreferrer">Descargar TripMateAI.apk</a>**
 
-O desde la sección de [Releases](https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI/releases) de este repositorio.
+O desde la sección de <a href="https://github.com/albertoomaldonadoo/Proyecto-Intermodular_TRIPMATEAI/releases" target="_blank" rel="noopener noreferrer">Releases</a> de este repositorio.
 
 <p align="center">
   <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
@@ -329,14 +343,14 @@ O desde la sección de [Releases](https://github.com/albertoomaldonadoo/Proyecto
 
 Videos de la aplicación desplegada para poder verificar su funcionamiento y poder visualizar cada uno de los módulos de una manera más especifica.
 
-| Nombre de el video | URL de acceso |
+| Nombre del video | Vista previa (clic para reproducir) |
 |---|---|
-| Video de registro | [https://youtu.be/VUbQEHAW70o](https://youtu.be/VUbQEHAW70o) |
-| Video de login | [https://youtu.be/bUx_qGiFIvg](https://youtu.be/bUx_qGiFIvg) |
-| Video de la home  | [https://youtu.be/MNN6qV2t0X8](https://youtu.be/MNN6qV2t0X8) |
-| Video de mis reservas | [https://youtu.be/Yg-UvNX1LGY](https://youtu.be/Yg-UvNX1LGY) |
-| Video de actividades  | [https://youtu.be/c5JUpUEypms](https://youtu.be/c5JUpUEypms) |
-| Video de reservas de vuelo  | [https://youtu.be/IF1SaoLS7P4](https://youtu.be/IF1SaoLS7P4) |
-| Video de reservas de alojamiento  | [https://youtu.be/DY9ThZadD7E](https://youtu.be/DY9ThZadD7E) |
-| Video del analisis del mercado  | [https://youtu.be/Ix8WAPnvDq8](https://youtu.be/Ix8WAPnvDq8) |
-| Video de la app traducida a los diferentes idiomas  | [https://youtu.be/hD6smzr5rj0](https://youtu.be/hD6smzr5rj0) |
+| Video de registro | <a href="https://youtu.be/VUbQEHAW70o" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/VUbQEHAW70o/hqdefault.jpg" alt="Video de registro" width="480"/></a> |
+| Video de login | <a href="https://youtu.be/bUx_qGiFIvg" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/bUx_qGiFIvg/hqdefault.jpg" alt="Video de login" width="480"/></a> |
+| Video de la home | <a href="https://youtu.be/MNN6qV2t0X8" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/MNN6qV2t0X8/hqdefault.jpg" alt="Video de la home" width="480"/></a> |
+| Video de mis reservas | <a href="https://youtu.be/Yg-UvNX1LGY" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/Yg-UvNX1LGY/hqdefault.jpg" alt="Video de mis reservas" width="480"/></a> |
+| Video de actividades | <a href="https://youtu.be/c5JUpUEypms" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/c5JUpUEypms/hqdefault.jpg" alt="Video de actividades" width="480"/></a> |
+| Video de reservas de vuelo | <a href="https://youtu.be/IF1SaoLS7P4" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/IF1SaoLS7P4/hqdefault.jpg" alt="Video de reservas de vuelo" width="480"/></a> |
+| Video de reservas de alojamiento | <a href="https://youtu.be/DY9ThZadD7E" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/DY9ThZadD7E/hqdefault.jpg" alt="Video de reservas de alojamiento" width="480"/></a> |
+| Video del analisis del mercado | <a href="https://youtu.be/Ix8WAPnvDq8" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/Ix8WAPnvDq8/hqdefault.jpg" alt="Video del analisis del mercado" width="480"/></a> |
+| Video de la app traducida a los diferentes idiomas | <a href="https://youtu.be/hD6smzr5rj0" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/hD6smzr5rj0/hqdefault.jpg" alt="Video de la app traducida" width="480"/></a> |
