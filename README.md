@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-VISITAR%20APP%20WEB-FFFFFF?style=for-the-badge&labelColor=1565C0&logoColor=FFFFFF" alt="Visitar app web"/>
   </a>
   &nbsp;
-  <a href="#enlace-a-la-presentación">
+  <a href="https://canva.link/na7a01xjtarzlqx">
     <img src="https://img.shields.io/badge/-VER%20PRESENTACION-FFFFFF?style=for-the-badge&labelColor=1565C0&logoColor=FFFFFF" alt="Ver presentación"/>
   </a>
   &nbsp;
@@ -22,7 +22,9 @@
 
 ## Enlace a la presentación
 
-Enlace a la presentación completa de aplicación: [Presentación TRIPMATEAI]()
+Enlace a la presentación completa de aplicación: [Presentación TRIPMATEAI](https://canva.link/na7a01xjtarzlqx)
+
+Enlace a el PDF de la presentación (Los videos no son visibles aquí por el formato PDF): [Presentación PDF TRIPMATEAI](./documentos/TRIPMATEPRESENTACIONFINAL.pdf)
 
 <p align="center">
   <img src="./capturasDePantalla/separator-tripmateai-marca.svg" width="100%" alt="Separador TripMateAI">
